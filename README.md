@@ -2,39 +2,8 @@
 
 ## Table of Contents
 
-- [Requirements](#requirements)
-- [Installation](#installation)
 - [Features](#features)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Requirements
-
-- Basic understanding of Javascript, React, and Redux
-- Node.js and npm installed
-- A Mac, Windows, or Linux computer
-
-## Installation
-
-Clone this repository:
-
-\`\`\`bash
-git clone https://github.com/yourusername/yourprojectname.git
-\`\`\`
-
-Navigate to the project directory and install dependencies:
-
-\`\`\`bash
-cd yourprojectname
-npm install
-\`\`\`
-
-Start the application:
-
-\`\`\`bash
-npm start
-\`\`\`
 
 ## Features
 
